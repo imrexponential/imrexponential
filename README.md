@@ -74,10 +74,6 @@
 
 ---
 
-All my previous projects can be found below.
-
----
-
 ## Bachelor Theses & Academic Research
 
 I hold a double bachelor background spanning **Applied Computer Science (Artificial Intelligence)** and **Information Management & Security**:
