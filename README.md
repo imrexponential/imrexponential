@@ -3,80 +3,7 @@
 # Hello World!
 ### Junior Cybersecurity & AI Engineer | Full-Stack & Systems Developer
 
-<br />
-
-> *Passionate about the intersection of **Artificial Intelligence**, **Computer Vision**, **High-Performance Distributed Systems**, and **Cybersecurity & Threat Detection**. I design and build end-to-end intelligent pipelines—from computer vision models and 3D WebGL data engines to secure enterprise cloud architectures.*
-
-<br />
-
 </div>
-
----
-
-## Bachelor Theses & Academic Research
-
-I hold a double bachelor background spanning **Applied Computer Science (Artificial Intelligence)** and **Information Management & Security**:
-
-### 1. AI-Driven Personal Finance & Receipt OCR Assistant (*Budgetto*)
-* **Track:** Applied Computer Science (Artificial Intelligence)
-* **Focus:** Computer Vision, NLP & Information Extraction, Full-Stack Architecture, Agile Team Delivery
-* **Overview:** Designed and developed **Budgetto**, an automated personal finance platform built around goal-oriented budgeting and receipt document processing. Instead of manual expense tracking, the system ingests receipts via an automated OCR pipeline, parses merchant and transactional metadata, identifies spending anomalies, and offers conversational budgeting recommendations.
-* **Tech Stack:** `Java 21` `Spring Boot` `React` `TypeScript` `Vite` `PostgreSQL` `Flyway` `Docker` `Terraform` `Ansible`
-
-### 2. Leveraging Cloud Data Lakes as a Modern SIEM Solution
-* **Track:** Information Management & Security
-* **Focus:** Cloud Security Architecture, Big Data Telemetry, Threat Detection & SIEM
-* **Overview:** Researched and architected an enterprise-grade Security Information and Event Management (SIEM) pipeline using **Azure Data Lake**. Investigated high-throughput ingestion of distributed audit logs, behavioral anomaly detection, real-time threat correlation rules, and cost-efficient long-term telemetry retention compared to traditional SIEM vendors.
-* **Tech Stack:** `Microsoft Azure` `Azure Data Lake` `Log Analytics` `KQL` `Python` `Cloud Security`
-
----
-
-## Featured Projects & What I Build
-
-### Full Gass — Industrial Gas Bottle Vision & Defect Inspection Pipeline
-> Automated edge vision system for cylinder defect classification and OCR verification on active industrial conveyor lines.
-
-* **Dual-Model Inspection:** Implemented deep learning classification (`YOLO11n-cls`) and object detection (`YOLOv8`) to detect structural bottle defects, rust, and collar abnormalities in real time.
-* **Multi-Angle OCR Tracking:** Engineered an automated tracking engine across 4 synchronized high-speed camera angles to extract stamped tare weight and recertification year codes using `EasyOCR` and `Tesseract`.
-* **Throughput Optimization:** Built coordinate caching and proximity deduplication mechanisms that solved critical throughput bottlenecks, avoiding overfills and hazardous cylinder operations.
-* **Stack:** `Python` `YOLOv8 / YOLO11` `OpenCV` `EasyOCR` `Tesseract` `MinIO` `Pandas`
-
----
-
-### Expertise3D — Interactive 3D Force-Directed Knowledge Graph
-> High-performance WebGL relationship explorer rendering complex institutional research networks.
-
-* **150,000+ Records in Real-Time:** Ingests massive relational datasets of projects, partner organizations, and academic domains into a responsive 3D force-directed network graph.
-* **Cinematic Z-Depth Parallax:** Mitigated standard graph "hairball" clutter by implementing custom camera-based focal depth fading, spotlighting relevant clusters without losing overall spatial context.
-* **Animated Particle Flow:** Real-time glowing neon particle pulses scaling dynamically with funding allocation and collaboration weight.
-* **Stack:** `Three.js` `WebGL` `JavaScript (ES6+)` `Node.js` `Express.js` `CouchDB (Mango Query)` `Pandas`
-
----
-
-### Overwatch AI Highlight Producer
-> Intelligent montage generator that "watches" gameplay to curate and render broadcast-style Top 10 compilations.
-
-* **Real-Time Event Detection:** Custom `YOLOv8` model detecting kill feeds, assist notifications, saves, and ultimate charge status.
-* **Multikill Audio/Visual Verification:** Combines center-screen OCR with audio cues to recognize Athena multikill announcements (*Double Kill*, *Triple Kill*, *Team Kill*).
-* **Automated Video Production:** Clusters detections within temporal proximity windows, ranks plays via a custom excitement-scoring algorithm, and renders the final montage with overlays and rankings using `MoviePy` / `FFmpeg`.
-* **Stack:** `Python 3.14` `YOLOv8` `Pytesseract` `MoviePy` `FFmpeg` `Pandas`
-
----
-
-### WildWander — Outdoor Adventure & Trail Platform
-> Full-stack cross-platform ecosystem for route discovery, offline navigation, and community excursions.
-
-* **Clean Architecture:** Built with a modular C# backend handling geospatial indexing and user management, paired with a snappy modern web client.
-* **Stack:** `C# / .NET` `ASP.NET Core` `React` `TypeScript` `Tailwind CSS` `Vite`
-
----
-
-## Industry Experience
-
-* **Deloitte** — *Detect & Response Team (Cybersecurity Intern)*
-  * Deployed and evaluated **Snowflake** as an enterprise SIEM engine to aggregate, analyze, and query multi-source security logs and incident indicators.
-* **Railway & Transit Infrastructure** — *IT Infrastructure & Telemetry Team (Intern)*
-  * Analyzed rolling-stock telemetry and industrial network protocols using **Wireshark** to map train data models and diagnose communication anomalies.
 
 ---
 
@@ -144,6 +71,77 @@ I hold a double bachelor background spanning **Applied Computer Science (Artific
     </td>
   </tr>
 </table>
+
+---
+
+All my previous projects can be found below.
+
+---
+
+## Bachelor Theses & Academic Research
+
+I hold a double bachelor background spanning **Applied Computer Science (Artificial Intelligence)** and **Information Management & Security**:
+
+### 1. AI-Driven Personal Finance & Receipt OCR Assistant (*Budgetto*)
+* **Track:** Applied Computer Science (Artificial Intelligence)
+* **Focus:** Computer Vision, NLP & Information Extraction, Full-Stack Architecture, Agile Team Delivery
+* **Overview:** Designed and developed **Budgetto**, an automated personal finance platform built around goal-oriented budgeting and receipt document processing. Instead of manual expense tracking, the system ingests receipts via an automated OCR pipeline, parses merchant and transactional metadata, identifies spending anomalies, and offers conversational budgeting recommendations.
+* **Tech Stack:** `Java 21` `Spring Boot` `React` `TypeScript` `Vite` `PostgreSQL` `Flyway` `Docker` `Terraform` `Ansible`
+
+### 2. Leveraging Cloud Data Lakes as a Modern SIEM Solution
+* **Track:** Information Management & Security
+* **Focus:** Cloud Security Architecture, Big Data Telemetry, Threat Detection & SIEM
+* **Overview:** Researched and architected an enterprise-grade Security Information and Event Management (SIEM) pipeline using **Azure Data Lake**. Investigated high-throughput ingestion of distributed audit logs, behavioral anomaly detection, real-time threat correlation rules, and cost-efficient long-term telemetry retention compared to traditional SIEM vendors.
+* **Tech Stack:** `Microsoft Azure` `Azure Data Lake` `Log Analytics` `KQL` `Python` `Cloud Security`
+
+---
+
+## Featured Projects & What I Build
+
+### Full Gass — Industrial Gas Bottle Vision & Defect Inspection Pipeline
+> Automated edge vision system for cylinder defect classification and OCR verification on active industrial conveyor lines.
+
+* **Dual-Model Inspection:** Implemented deep learning classification (`YOLO11n-cls`) and object detection (`YOLOv8`) to detect structural bottle defects, rust, and collar abnormalities in real time.
+* **Multi-Angle OCR Tracking:** Engineered an automated tracking engine across 4 synchronized high-speed camera angles to extract stamped tare weight and recertification year codes using `EasyOCR` and `Tesseract`.
+* **Throughput Optimization:** Built coordinate caching and proximity deduplication mechanisms that solved critical throughput bottlenecks, avoiding overfills and hazardous cylinder operations.
+* **Stack:** `Python` `YOLOv8 / YOLO11` `OpenCV` `EasyOCR` `Tesseract` `MinIO` `Pandas`
+
+---
+
+### Expertise3D — Interactive 3D Force-Directed Knowledge Graph
+> High-performance WebGL relationship explorer rendering complex institutional research networks.
+
+* **150,000+ Records in Real-Time:** Ingests massive relational datasets of projects, partner organizations, and academic domains into a responsive 3D force-directed network graph.
+* **Cinematic Z-Depth Parallax:** Mitigated standard graph "hairball" clutter by implementing custom camera-based focal depth fading, spotlighting relevant clusters without losing overall spatial context.
+* **Animated Particle Flow:** Real-time glowing neon particle pulses scaling dynamically with funding allocation and collaboration weight.
+* **Stack:** `Three.js` `WebGL` `JavaScript (ES6+)` `Node.js` `Express.js` `CouchDB (Mango Query)` `Pandas`
+
+---
+
+### Overwatch AI Highlight Producer
+> Intelligent montage generator that "watches" gameplay to curate and render broadcast-style Top 10 compilations.
+
+* **Real-Time Event Detection:** Custom `YOLOv8` model detecting kill feeds, assist notifications, saves, and ultimate charge status.
+* **Multikill Audio/Visual Verification:** Combines center-screen OCR with audio cues to recognize Athena multikill announcements (*Double Kill*, *Triple Kill*, *Team Kill*).
+* **Automated Video Production:** Clusters detections within temporal proximity windows, ranks plays via a custom excitement-scoring algorithm, and renders the final montage with overlays and rankings using `MoviePy` / `FFmpeg`.
+* **Stack:** `Python 3.14` `YOLOv8` `Pytesseract` `MoviePy` `FFmpeg` `Pandas`
+
+---
+
+### WildWander — Outdoor Adventure & Trail Platform
+> Full-stack cross-platform ecosystem for route discovery, offline navigation, and community excursions.
+
+* **Clean Architecture:** Built with a modular C# backend handling geospatial indexing and user management, paired with a snappy modern web client.
+* **Stack:** `C# / .NET` `ASP.NET Core` `React` `TypeScript` `Tailwind CSS` `Vite`
+
+---
+
+## Industry Experience
+
+* **Deloitte** — *Detect & Response Team (Cybersecurity Intern)*
+  * Deployed and evaluated **Snowflake** as an enterprise SIEM engine to aggregate, analyze, and query multi-source security logs and incident indicators.
+* **Railway & Transit Infrastructure** — *IT Infrastructure & Telemetry Team (Intern)*
+  * Analyzed rolling-stock telemetry and industrial network protocols using **Wireshark** to map train data models and diagnose communication anomalies.
 
 ---
 <div align="center">
