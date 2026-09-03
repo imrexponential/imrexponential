@@ -131,6 +131,3 @@ I hold a double bachelor background spanning **Applied Computer Science (Artific
 * **Stack:** `C# / .NET` `ASP.NET Core` `React` `TypeScript` `Tailwind CSS` `Vite`
 
 ---
-<div align="center">
-  <sub>Portfolio & Profile README</sub>
-</div>
