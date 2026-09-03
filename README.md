@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello World!
-### Junior Cybersecurity & AI Engineer | Full-Stack & Systems Developer
+### Junior Cybersecurity & AI Engineer
 
 </div>
 
