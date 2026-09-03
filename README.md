@@ -1,6 +1,6 @@
 <div align="center">
 
-# >>>print(Hello World!)
+# Hello World!
 ### Junior Cybersecurity & AI Engineer | Full-Stack & Systems Developer
 
 <br />
