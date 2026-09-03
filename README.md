@@ -1,9 +1,7 @@
 <div align="center">
 
-# Hi there 👋
+# Hi there
 ### Junior Cybersecurity & AI Engineer | Full-Stack & Systems Developer
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-imrexponential-181717?style=for-the-badge&logo=github)](https://github.com/imrexponential)
 
 <br />
 
@@ -15,17 +13,17 @@
 
 ---
 
-## 🎓 Bachelor Theses & Academic Research
+## Bachelor Theses & Academic Research
 
 I hold a double bachelor background spanning **Applied Computer Science (Artificial Intelligence)** and **Information Management & Security**:
 
-### 1. 🤖 AI-Driven Personal Finance & Receipt OCR Assistant (*Budgetto*)
+### 1. AI-Driven Personal Finance & Receipt OCR Assistant (*Budgetto*)
 * **Track:** Applied Computer Science (Artificial Intelligence)
 * **Focus:** Computer Vision, NLP & Information Extraction, Full-Stack Architecture, Agile Team Delivery
 * **Overview:** Designed and developed **Budgetto**, an automated personal finance platform built around goal-oriented budgeting and receipt document processing. Instead of manual expense tracking, the system ingests receipts via an automated OCR pipeline, parses merchant and transactional metadata, identifies spending anomalies, and offers conversational budgeting recommendations.
 * **Tech Stack:** `Java 21` `Spring Boot` `React` `TypeScript` `Vite` `PostgreSQL` `Flyway` `Docker` `Terraform` `Ansible`
 
-### 2. 🛡️ Leveraging Cloud Data Lakes as a Modern SIEM Solution
+### 2. Leveraging Cloud Data Lakes as a Modern SIEM Solution
 * **Track:** Information Management & Security
 * **Focus:** Cloud Security Architecture, Big Data Telemetry, Threat Detection & SIEM
 * **Overview:** Researched and architected an enterprise-grade Security Information and Event Management (SIEM) pipeline using **Azure Data Lake**. Investigated high-throughput ingestion of distributed audit logs, behavioral anomaly detection, real-time threat correlation rules, and cost-efficient long-term telemetry retention compared to traditional SIEM vendors.
@@ -33,9 +31,9 @@ I hold a double bachelor background spanning **Applied Computer Science (Artific
 
 ---
 
-## 🚀 Featured Projects & What I Build
+## Featured Projects & What I Build
 
-### 🏭 Full Gass — Industrial Gas Bottle Vision & Defect Inspection Pipeline
+### Full Gass — Industrial Gas Bottle Vision & Defect Inspection Pipeline
 > Automated edge vision system for cylinder defect classification and OCR verification on active industrial conveyor lines.
 
 * **Dual-Model Inspection:** Implemented deep learning classification (`YOLO11n-cls`) and object detection (`YOLOv8`) to detect structural bottle defects, rust, and collar abnormalities in real time.
@@ -45,7 +43,7 @@ I hold a double bachelor background spanning **Applied Computer Science (Artific
 
 ---
 
-### 🌐 Expertise3D — Interactive 3D Force-Directed Knowledge Graph
+### Expertise3D — Interactive 3D Force-Directed Knowledge Graph
 > High-performance WebGL relationship explorer rendering complex institutional research networks.
 
 * **150,000+ Records in Real-Time:** Ingests massive relational datasets of projects, partner organizations, and academic domains into a responsive 3D force-directed network graph.
@@ -55,7 +53,7 @@ I hold a double bachelor background spanning **Applied Computer Science (Artific
 
 ---
 
-### 🎮 Overwatch AI Highlight Producer
+### Overwatch AI Highlight Producer
 > Intelligent montage generator that "watches" gameplay to curate and render broadcast-style Top 10 compilations.
 
 * **Real-Time Event Detection:** Custom `YOLOv8` model detecting kill feeds, assist notifications, saves, and ultimate charge status.
@@ -65,7 +63,7 @@ I hold a double bachelor background spanning **Applied Computer Science (Artific
 
 ---
 
-### 🌲 WildWander — Outdoor Adventure & Trail Platform
+### WildWander — Outdoor Adventure & Trail Platform
 > Full-stack cross-platform ecosystem for route discovery, offline navigation, and community excursions.
 
 * **Clean Architecture:** Built with a modular C# backend handling geospatial indexing and user management, paired with a snappy modern web client.
@@ -73,7 +71,7 @@ I hold a double bachelor background spanning **Applied Computer Science (Artific
 
 ---
 
-## 💼 Industry Experience
+## Industry Experience
 
 * **Deloitte** — *Detect & Response Team (Cybersecurity Intern)*
   * Deployed and evaluated **Snowflake** as an enterprise SIEM engine to aggregate, analyze, and query multi-source security logs and incident indicators.
@@ -82,7 +80,7 @@ I hold a double bachelor background spanning **Applied Computer Science (Artific
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <table align="center">
   <tr>
