@@ -131,15 +131,6 @@ I hold a double bachelor background spanning **Applied Computer Science (Artific
 * **Stack:** `C# / .NET` `ASP.NET Core` `React` `TypeScript` `Tailwind CSS` `Vite`
 
 ---
-
-## Industry Experience
-
-* **Deloitte** — *Detect & Response Team (Cybersecurity Intern)*
-  * Deployed and evaluated **Snowflake** as an enterprise SIEM engine to aggregate, analyze, and query multi-source security logs and incident indicators.
-* **Railway & Transit Infrastructure** — *IT Infrastructure & Telemetry Team (Intern)*
-  * Analyzed rolling-stock telemetry and industrial network protocols using **Wireshark** to map train data models and diagnose communication anomalies.
-
----
 <div align="center">
   <sub>Portfolio & Profile README</sub>
 </div>
